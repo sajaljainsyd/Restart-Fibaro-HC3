@@ -19,5 +19,5 @@
 # Actions
 
 ````
-fibaro.homeCenter.hub.systemService.reboot()
+fibaro.homeCenter.systemService.reboot()
 ````
